@@ -1,0 +1,7 @@
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+streamlit
+tmdbv3api
